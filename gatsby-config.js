@@ -5,4 +5,5 @@ module.exports = {
         description: 'Frontend Masters Intro to Gatsby course projects',
         image: ''
     },
+    plugins: ['gatsby-plugin-react-helmet'],
 };
